@@ -8,4 +8,6 @@ Determined, Liam scoured the code. At midnight, she discovered something eerie, 
 Tracing its origins, he uncovered a buried function written decades ago by the company's founder. It contained a chilling message:
 "If you're reading this, you have the gift. Fix what must be fixed, Liam. And never stop listening."
 
+Liam fixed the bug, and went home. The consequence was the program crashed the next morning.
+
 The End
